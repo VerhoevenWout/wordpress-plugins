@@ -1,0 +1,11 @@
+[22-Jun-2015 22:39:19 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[28-Jul-2015 12:00:15 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[23-Aug-2015 11:35:58 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[14-Sep-2015 14:09:42 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[14-Sep-2015 14:09:52 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[21-Oct-2015 12:23:03 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[21-Oct-2015 12:23:04 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[31-Dec-2015 00:46:48 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[15-Jan-2016 02:28:04 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[15-Jan-2016 02:28:05 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60
+[18-Jan-2016 12:45:09 Europe/London] PHP Fatal error:  Call to undefined function add_action() in /home/biltongrange/public_html/wp-content/plugins/hello.php on line 60

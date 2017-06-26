@@ -1,0 +1,1 @@
+[27-Jan-2017 10:28:38 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/biltongrange/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
